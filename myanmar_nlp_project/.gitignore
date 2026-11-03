@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model files
+checkpoints/*.pt
+preprocessing/spelling_dictionary.json
+
+# Dataset files
+data/
+dataset/

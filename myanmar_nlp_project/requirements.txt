@@ -1,0 +1,5 @@
+Flask
+torch
+pytorch-crf
+datasets
+symspellpy
