@@ -245,8 +245,8 @@ On Windows, use `Win + Shift + S` to capture the relevant area. On macOS, use `S
 
 Computer Science / IT student interested in software development, natural language processing, and building practical web applications.
 
-- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
-- LinkedIn: [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/)
+- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/theintshwesin2026)
+- LinkedIn: [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/in/theint-shwe-sin-67a0aa421?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
