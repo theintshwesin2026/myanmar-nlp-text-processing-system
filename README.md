@@ -11,7 +11,7 @@ A Myanmar-language text processing project that combines Unicode normalization, 
      or change the paths below to match your image names. -->
 | Application interface | Processed Myanmar text |
 |---|---|
-| ![Application interface](screenshots/app-interface.png) | ![Segmentation result](screenshots/segmentation-result.png) |
+| ![Application interface](screenshot/phototwo.jpg) | ![Segmentation result](screenshot/photoone.jpg) |
 
 **Before publishing:** Replace these preview images with real screenshots from your running application. Do not leave broken image links in the final repository.
 
@@ -104,11 +104,11 @@ The uploaded project archive does not include the original dataset files. The tr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/myanmar-nlp-project.git
+git clone https://github.com/theintshwesin2026/myanmar-nlp-project.git
 cd myanmar-nlp-project
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username and use your actual repository name.
+
 
 ### 2. Create a virtual environment
 
@@ -208,9 +208,9 @@ The exact spelling suggestions depend on the dictionary contents and the input t
 
 1. Start the app using `python app.py`.
 2. Open `http://127.0.0.1:5000`.
-3. Take a screenshot of the empty/input interface and save it as `screenshots/app-interface.png`.
+3. Take a screenshot of the empty/input interface and save it as `screenshot/phototwo.jpg`.
 4. Enter a representative Myanmar sentence and click **Process Text**.
-5. Take another screenshot showing the processed output and save it as `screenshots/segmentation-result.png`.
+5. Take another screenshot showing the processed output and save it as `screenshot/photoone.jpg`.
 6. Check that Myanmar characters are readable and that no personal information, local file paths, debug console, or API secrets are visible.
 7. Commit the screenshots with the README.
 
@@ -244,9 +244,6 @@ On Windows, use `Win + Shift + S` to capture the relevant area. On macOS, use `S
 **Theint Shwe Sin**
 
 Computer Science / IT student interested in software development, natural language processing, and building practical web applications.
-
-- GitHub: [YOUR-GITHUB-USERNAME](https://github.com/theintshwesin2026)
-- LinkedIn: [YOUR-LINKEDIN-PROFILE](https://www.linkedin.com/in/theint-shwe-sin-67a0aa421?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
